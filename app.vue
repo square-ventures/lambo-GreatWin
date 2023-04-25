@@ -216,16 +216,16 @@ export default defineComponent({
     const now = new Date().getTime();
     const newYear = new Date("April 28, 2023 00:00:00").getTime();
     const imgs = [
-      "/mateadmin/fezbet/assets/poze/a0.jpg",
-      "/mateadmin/fezbet/assets/poze/a1.jpg",
-      "/mateadmin/fezbet/assets/poze/a2.jpg",
-      "/mateadmin/fezbet/assets/poze/a3.jpg",
-      "/mateadmin/fezbet/assets/poze/a4.jpg",
-      "/mateadmin/fezbet/assets/poze/a5.jpg",
-      "/mateadmin/fezbet/assets/poze/a6.jpg",
-      "/mateadmin/fezbet/assets/poze/a7.jpg",
-      "/mateadmin/fezbet/assets/poze/a8.jpg",
-      "/mateadmin/fezbet/assets/poze/a9.jpg",
+      "/mateadmin/greatwin/assets/poze/a0.jpg",
+      "/mateadmin/greatwin/assets/poze/a1.jpg",
+      "/mateadmin/greatwin/assets/poze/a2.jpg",
+      "/mateadmin/greatwin/assets/poze/a3.jpg",
+      "/mateadmin/greatwin/assets/poze/a4.jpg",
+      "/mateadmin/greatwin/assets/poze/a5.jpg",
+      "/mateadmin/greatwin/assets/poze/a6.jpg",
+      "/mateadmin/greatwin/assets/poze/a7.jpg",
+      "/mateadmin/greatwin/assets/poze/a8.jpg",
+      "/mateadmin/greatwin/assets/poze/a9.jpg",
     ];
     const showImg = (index) => {
       indexRef.value = index;
