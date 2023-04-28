@@ -96,6 +96,7 @@ a {
   &-logo {
     width: 187px;
     height: 40px;
+    z-index: 2;
 
     @include mq(600px)
     {
