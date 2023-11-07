@@ -43,6 +43,8 @@
         </div>
       </div>
 
+      <Players />
+
       <div class="bottom-gallery">
         <h2 class="bottom-gallery-text">{{ $t("thePrizeInAction") }}</h2>
         <iframe
